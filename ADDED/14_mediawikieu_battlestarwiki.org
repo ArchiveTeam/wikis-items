@@ -1,0 +1,9 @@
+mediawikieu:de.battlestarwiki.org/w/api.php:de.battlestarwiki.org/wiki/
+mediawikieu:en.battlestarwiki.org/w/api.php:en.battlestarwiki.org/wiki/
+mediawikieu:es.battlestarwiki.org/w/api.php:es.battlestarwiki.org/wiki/
+mediawikieu:fr.battlestarwiki.org/w/api.php:fr.battlestarwiki.org/wiki/
+mediawikieu:media.battlestarwiki.org/w/api.php:media.battlestarwiki.org/wiki/
+mediawikieu:ms.battlestarwiki.org/w/api.php:ms.battlestarwiki.org/wiki/
+mediawikieu:simple.battlestarwiki.org/w/api.php:simple.battlestarwiki.org/wiki/
+mediawikieu:tr.battlestarwiki.org/w/api.php:tr.battlestarwiki.org/wiki/
+mediawikieu:zh.battlestarwiki.org/w/api.php:zh.battlestarwiki.org/wiki/
